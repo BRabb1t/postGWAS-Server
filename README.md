@@ -19,7 +19,7 @@ To run a post-GWAS Server frontend perform the following steps:
 3. complete the setup process
    ```
     npm install     # Install dependencies
-    npm run build   # Build the frontend project
+    npm run build:test   # Build the frontend project
     npm run preview     # run the server
    ```
    
